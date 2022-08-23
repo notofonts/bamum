@@ -1,5 +1,5 @@
 {
-.appVersion = "3109";
+.appVersion = "3072";
 DisplayStrings = (
 "/uniA6A0/uniA6A1/uniA6A2/uniA6A3/uniA6A4/uniA6A5/uniA6A6/uniA6A7/uniA6A8/uniA6A9/uniA6AA/uniA6AB/uniA6AC/uniA6AD/uniA6AE/uniA6AF/uniA6B0/uniA6B1/uniA6B2/uniA6B3/uniA6B4/uniA6B5/uniA6B6/uniA6B7/uniA6B8/uniA6B9/uniA6BA/uniA6BB/uniA6BC/uniA6BD/uniA6BE/uniA6BF/uniA6C0/uniA6C1/uniA6C2/uniA6C3/uniA6C4/uniA6C5/uniA6C6/uniA6C7/uniA6C8/uniA6C9/uniA6CA/uniA6CB/uniA6CC/uniA6CD/uniA6CE/uniA6CF/uniA6D0/uniA6D1/uniA6D2/uniA6D3/uniA6D4/uniA6D5/uniA6D6/uniA6D7/uniA6D8/uniA6D9/uniA6DA/uniA6DB/uniA6DC/uniA6DD/uniA6DE/uniA6DF/uniA6E0/uniA6E1/uniA6E2/uniA6E3/uniA6E4/uniA6E5/uniA6E6/uniA6E7/uniA6E8/uniA6E9/uniA6EA/uniA6EB/uniA6EC/uniA6ED/uniA6EE/uniA6EF \012/uniA6A0/uniA6A1/uniA6A1/uniA6A1/uniA6A2/uniA6A1/uniA6A3/uniA6A1/uniA6A4/uniA6A1/uniA6A5/uniA6A1/uniA6A6/uniA6A1/uniA6A7/uniA6A1/uniA6A8/uniA6A1/uniA6A9/uniA6A1/uniA6AA/uniA6A1/uniA6AB/uniA6A1/uniA6AC/uniA6A1/uniA6AD/uniA6A1/uniA6AE/uniA6A1/uniA6AF/uniA6A1/uniA6B0/uniA6A1/uniA6B1/uniA6A1/uniA6B2/uniA6A1/uniA6B3/uniA6A1/uniA6B4/uniA6A1/uniA6B5/uniA6A1/uniA6B6/uniA6A1/uniA6B7/uniA6A1/uniA6B8/uniA6A1/uniA6B9/uniA6A1/uniA6BA/uniA6A1/uniA6BB/uniA6A1/uniA6BC/uniA6A1/uniA6BD/uniA6A1/uniA6BE/uniA6A1/uniA6BF/uniA6A1/uniA6C0/uniA6A1/uniA6C1/uniA6A1/uniA6C2/uniA6A1/uniA6C3/uniA6A1/uniA6C4/uniA6A1/uniA6C5/uniA6A1/uniA6C6/uniA6A1/uniA6C7/uniA6A1/uniA6C8/uniA6A1/uniA6C9/uniA6A1/uniA6CA/uniA6A1/uniA6CB/uniA6A1/uniA6CC/uniA6A1/uniA6CD/uniA6A1/uniA6CE/uniA6A1/uniA6CF/uniA6A1/uniA6D0/uniA6A1/uniA6D1/uniA6A1/uniA6D2/uniA6A1/uniA6D3/uniA6A1/uniA6D4/uniA6A1/uniA6D5/uniA6A1/uniA6D6/uniA6A1/uniA6D7/uniA6A1/uniA6D8/uniA6A1/uniA6D9/uniA6A1/uniA6DA/uniA6A1/uniA6DB/uniA6A1/uniA6DC/uniA6A1/uniA6DD/uniA6A1/uniA6DE/uniA6A1/uniA6DF/uniA6A1/uniA6E0/uniA6A1/uniA6E1/uniA6A1/uniA6E2/uniA6A1/uniA6E3/uniA6A1/uniA6E4/uniA6A1/uniA6E5/uniA6A1/uniA6E6/uniA6A1/uniA6E7/uniA6A1/uniA6E8/uniA6A1/uniA6E9/uniA6A1/uniA6EA/uniA6A1/uniA6EB/uniA6A1/uniA6EC/uniA6A1/uniA6ED/uniA6A1/uniA6EE/uniA6A1/uniA6EF/uniA6A1 \012/space",
 "/uniA6A1/uniA6A5/uniA6A1/uniA6AD/uniA6A1/uniA6B0/uniA6A1/uniA6B1/uniA6A1/uniA6A5/uniA6A1/uniA6B2/uniA6A1/uniA6B3/uniA6A1/uniA6B4/uniA6B6/uniA6B7/uniA6C9/uniA6A1/uniA6B9/uniA6BB/uniA6BC/uniA6A1/uniA6BE/uniA6A1/uniA6C2/uniA6A1/uniA6C4/uniA6A1/uniA6C5/uniA6A1/uniA6BC/uniA6C7/uniA6A1/uniA6C9/uniA6A1/uniA6CB/uniA6A1/uniA6CE/uniA6A1/uniA6CF/uniA6A1/uniA6A1/uniA6D0/uniA6A1/uniA6D5/uniA6BC/uniA6C7/uniA6D6/uniA6D8/uniA6A1/uniA6D9/uniA6A1/uniA6A1/uniA6DA/uniA6DB/uniA6DE/uniA6A1/uniA6DF/uniA6A1/uniA6B0/uniA6A1/uniA6E0 \012/uniA6A1/uniA6E3/uniA6E6/uniA6E7/uniA6E8/uniA6A2/uniA6D0/uniA6A6/uniA6B5/uniA6E5/uniA6A1/uniA6A7/uniA6A1/uniA6A8/uniA6A1/uniA6AB/uniA6CB/uniA6A1/uniA6AF/uniA6A1 \012/uniA6A1/uniA6AC/uniA6A1/uniA6BD/uniA6A1/uniA6BF/uniA6A1/uniA6C0/uniA6A1/uniA6C1/uniA6A1/uniA6CD/uniA6A1/uniA6EB/uniA6A1 \012/uniA6E9/uniA6EA/uniA6EC/uniA6EE/uniA6A3/uniA6A4/uniA6AA/uniA6C3/uniA6A1/uniA6CA \012/uniA6A1/uniA6CC/uniA6A1/uniA6D3/uniA6A1/uniA6A4/uniA6DC/uniA6A1/uniA6DD/uniA6A1/uniA6E1/uniA6A1/uniA6E2/uniA6A1/uniA6E4/uniA6A1/uniA6EF/uniA6A1",
@@ -251662,17 +251662,18 @@ unicode = 0020;
 },
 {
 glyphname = uni00A0;
-lastChange = "2022-07-18 12:46:43 +0000";
+lastChange = "2022-08-23 12:06:57 +0000";
 layers = (
 {
 layerId = UUID0;
-width = 254;
+width = 260;
 },
 {
 layerId = "5FD345A2-B401-41C2-ABD2-41E3FDEB3605";
-width = 260;
+width = 240;
 }
 );
+widthMetricsKey = "=space";
 unicode = 00A0;
 },
 {
