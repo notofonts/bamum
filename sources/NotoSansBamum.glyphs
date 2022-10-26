@@ -13,7 +13,7 @@ DisplayStrings = (
 "/uniA6A0/uniA6A1/uniA6A2/uniA6A3/uniA6A4/uniA6A5/uniA6A6/uniA6A7/uniA6A8/uniA6A9/uniA6AA/uniA6AB/uniA6AC/uniA6AD/uniA6AE/uniA6AF/uniA6B0/uniA6B1/uniA6B2/uniA6B3/uniA6B4/uniA6B5/uniA6B6/uniA6B7/uniA6B8/uniA6B9/uniA6BA/uniA6BB/uniA6BC/uniA6BD/uniA6BE/uniA6BF/uniA6C0/uniA6C1/uniA6C2/uniA6C3/uniA6C4/uniA6C5/uniA6C6/uniA6C7/uniA6C8/uniA6C9/uniA6CA/uniA6CB/uniA6CC/uniA6CD/uniA6CE/uniA6CF/uniA6D0/uniA6D1/uniA6D2/uniA6D3/uniA6D4/uniA6D5/uniA6D6/uniA6D7/uniA6D8/uniA6D9/uniA6DA/uniA6DB/uniA6DC/uniA6DD/uniA6DE/uniA6DF/uniA6E0/uniA6E1/uniA6E2/uniA6E3/uniA6E4/uniA6E5/uniA6E6/uniA6E7/uniA6E8/uniA6E9/uniA6EA/uniA6EB/uniA6EC/uniA6ED/uniA6EE/uniA6EF/uniA6F2/uniA6F3/uniA6F4/uniA6F5/uniA6F6/uniA6F7",
 "/uniA6A1/uniA6AA/uniA6D3",
 "/uniA6F0",
-"/uni00A0"
+"/uniA6A5"
 );
 copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bamum)";
 customParameters = (
@@ -1337,7 +1337,7 @@ unicode = A6A4;
 {
 color = 5;
 glyphname = uniA6A5;
-lastChange = "2022-06-27 14:26:56 +0000";
+lastChange = "2022-10-26 10:43:52 +0000";
 layers = (
 {
 anchors = (
@@ -1479,11 +1479,11 @@ nodes = (
 components = (
 {
 name = _dot;
-transform = "{1, 0, 0, 1, 238, -338}";
+transform = "{1, 0, 0, 1, 239, 0}";
 },
 {
 name = _dot;
-transform = "{1, 0, 0, 1, 239, 0}";
+transform = "{1, 0, 0, 1, 238, -338}";
 }
 );
 layerId = "5FD345A2-B401-41C2-ABD2-41E3FDEB3605";
@@ -12098,7 +12098,7 @@ unicode = A6DC;
 {
 color = 5;
 glyphname = uniA6DD;
-lastChange = "2022-06-27 14:26:56 +0000";
+lastChange = "2022-10-26 10:42:12 +0000";
 layers = (
 {
 anchors = (
@@ -12325,6 +12325,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"263 373 OFFCURVE",
+"222 413 OFFCURVE",
+"222 491 CURVE SMOOTH",
 "222 559 OFFCURVE",
 "262 599 OFFCURVE",
 "321 599 CURVE SMOOTH",
@@ -12333,10 +12336,7 @@ nodes = (
 "439 418 CURVE",
 "408 385 OFFCURVE",
 "371 373 OFFCURVE",
-"325 373 CURVE SMOOTH",
-"263 373 OFFCURVE",
-"222 413 OFFCURVE",
-"222 491 CURVE SMOOTH"
+"325 373 CURVE SMOOTH"
 );
 }
 );
